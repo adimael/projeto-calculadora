@@ -5,4 +5,4 @@
 Calculadora desenvolvida como exemplo do Curso Completo de JavaScript na Udemy.com.
 
 ### Projeto
-![Calculadora]("/screenshot/calculadora.png")
+![Calculadora]("./screenshot/calculadora.png")
