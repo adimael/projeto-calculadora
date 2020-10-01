@@ -6,7 +6,12 @@
 
 .titulo{
   text-align: center;
-  color: aliceblue;
+  color: var(--font-color);
+}
+
+.container{
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 button, hr, input {
@@ -31,7 +36,7 @@ line-height: 1.15;
 
 body {
 margin: 0;
-background-color: black;
+background-color: var(--color-secondary);
 }
 
 h1 {
