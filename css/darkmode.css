@@ -1,0 +1,14 @@
+.theme-light {
+  --color-primary: #0060df;
+  --color-secondary: #fbfbfe;
+  --color-posts: aquamarine;
+  --color-accent: #fd6f53;
+  --font-color: #000000;
+}
+.theme-dark {
+  --color-primary: #33cabb;
+  --color-secondary: #1A1B25;
+  --color-posts: #123;
+  --color-accent: #12cdea;
+  --font-color: #ffffff;
+}
